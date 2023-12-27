@@ -1,0 +1,317 @@
+Transient analysis started...
+currentT: 1e-14
+node 5: 0
+node 4: 2.48744e-05
+currentT: 2e-14
+node 5: 4.97401e-05
+node 4: 7.43856e-05
+currentT: 3e-14
+node 5: 0.000198433
+node 4: 0.000123453
+currentT: 4e-14
+node 5: 0.00044503
+node 4: 0.000172116
+currentT: 5e-14
+node 5: 0.000788482
+node 4: 0.000220395
+currentT: 6e-14
+node 5: 0.00122774
+node 4: 0.000268309
+currentT: 7e-14
+node 5: 0.00176176
+node 4: 0.000315876
+currentT: 8e-14
+node 5: 0.0023895
+node 4: 0.000363115
+currentT: 9e-14
+node 5: 0.00310992
+node 4: 0.000410045
+currentT: 1e-13
+node 5: 0.00392196
+node 4: 0.000456683
+currentT: 1.1e-13
+node 5: 0.0048246
+node 4: 0.000503049
+currentT: 1.2e-13
+node 5: 0.0058168
+node 4: 0.00054916
+currentT: 1.3e-13
+node 5: 0.00689751
+node 4: 0.000595033
+currentT: 1.4e-13
+node 5: 0.0080657
+node 4: 0.000640687
+currentT: 1.5e-13
+node 5: 0.00932034
+node 4: 0.000686139
+currentT: 1.6e-13
+node 5: 0.0106604
+node 4: 0.000731406
+currentT: 1.7e-13
+node 5: 0.0120848
+node 4: 0.000776506
+currentT: 1.8e-13
+node 5: 0.0135927
+node 4: 0.000821455
+currentT: 1.9e-13
+node 5: 0.0151828
+node 4: 0.000866271
+currentT: 2e-13
+node 5: 0.0168543
+node 4: 0.000910969
+currentT: 2.1e-13
+node 5: 0.018606
+node 4: 0.000955567
+currentT: 2.2e-13
+node 5: 0.0204371
+node 4: 0.00100008
+currentT: 2.3e-13
+node 5: 0.0223464
+node 4: 0.00104453
+currentT: 2.4e-13
+node 5: 0.024333
+node 4: 0.00108892
+currentT: 2.5e-13
+node 5: 0.0263958
+node 4: 0.00113328
+currentT: 2.6e-13
+node 5: 0.0285338
+node 4: 0.00117762
+currentT: 2.7e-13
+node 5: 0.0307461
+node 4: 0.00122195
+currentT: 2.8e-13
+node 5: 0.0330316
+node 4: 0.00126629
+currentT: 2.9e-13
+node 5: 0.0353894
+node 4: 0.00131066
+currentT: 3e-13
+node 5: 0.0378184
+node 4: 0.00135506
+currentT: 3.1e-13
+node 5: 0.0403177
+node 4: 0.00139953
+currentT: 3.2e-13
+node 5: 0.0428862
+node 4: 0.00144406
+currentT: 3.3e-13
+node 5: 0.045523
+node 4: 0.00148868
+currentT: 3.4e-13
+node 5: 0.0482271
+node 4: 0.0015334
+currentT: 3.5e-13
+node 5: 0.0509975
+node 4: 0.00157822
+currentT: 3.6e-13
+node 5: 0.0538332
+node 4: 0.00162318
+currentT: 3.7e-13
+node 5: 0.0567334
+node 4: 0.00166828
+currentT: 3.8e-13
+node 5: 0.0596969
+node 4: 0.00171353
+currentT: 3.9e-13
+node 5: 0.0627229
+node 4: 0.00175895
+currentT: 4e-13
+node 5: 0.0658104
+node 4: 0.00180455
+currentT: 4.1e-13
+node 5: 0.0689584
+node 4: 0.00185035
+currentT: 4.2e-13
+node 5: 0.072166
+node 4: 0.00189635
+currentT: 4.3e-13
+node 5: 0.0754322
+node 4: 0.00194258
+currentT: 4.4e-13
+node 5: 0.0787561
+node 4: 0.00198904
+currentT: 4.5e-13
+node 5: 0.0821368
+node 4: 0.00203574
+currentT: 4.6e-13
+node 5: 0.0855732
+node 4: 0.0020827
+currentT: 4.7e-13
+node 5: 0.0890645
+node 4: 0.00212994
+currentT: 4.8e-13
+node 5: 0.0926098
+node 4: 0.00217745
+currentT: 4.9e-13
+node 5: 0.0962081
+node 4: 0.00222526
+currentT: 5e-13
+node 5: 0.0998585
+node 4: 0.00227338
+currentT: 5.1e-13
+node 5: 0.10356
+node 4: 0.00232181
+currentT: 5.2e-13
+node 5: 0.107312
+node 4: 0.00237057
+currentT: 5.3e-13
+node 5: 0.111113
+node 4: 0.00241968
+currentT: 5.4e-13
+node 5: 0.114963
+node 4: 0.00246914
+currentT: 5.5e-13
+node 5: 0.11886
+node 4: 0.00251895
+currentT: 5.6e-13
+node 5: 0.122804
+node 4: 0.00256915
+currentT: 5.7e-13
+node 5: 0.126794
+node 4: 0.00261972
+currentT: 5.8e-13
+node 5: 0.130829
+node 4: 0.0026707
+currentT: 5.9e-13
+node 5: 0.134908
+node 4: 0.00272207
+currentT: 6e-13
+node 5: 0.139029
+node 4: 0.00277387
+currentT: 6.1e-13
+node 5: 0.143194
+node 4: 0.00282608
+currentT: 6.2e-13
+node 5: 0.147399
+node 4: 0.00287874
+currentT: 6.3e-13
+node 5: 0.151645
+node 4: 0.00293184
+currentT: 6.4e-13
+node 5: 0.155931
+node 4: 0.00298539
+currentT: 6.5e-13
+node 5: 0.160256
+node 4: 0.0030394
+currentT: 6.6e-13
+node 5: 0.164619
+node 4: 0.00309389
+currentT: 6.7e-13
+node 5: 0.169019
+node 4: 0.00314887
+currentT: 6.8e-13
+node 5: 0.173455
+node 4: 0.00320433
+currentT: 6.9e-13
+node 5: 0.177927
+node 4: 0.0032603
+currentT: 7e-13
+node 5: 0.182433
+node 4: 0.00331677
+currentT: 7.09999e-13
+node 5: 0.186974
+node 4: 0.00337376
+currentT: 7.19999e-13
+node 5: 0.191547
+node 4: 0.00343128
+currentT: 7.29999e-13
+node 5: 0.196153
+node 4: 0.00348933
+currentT: 7.39999e-13
+node 5: 0.20079
+node 4: 0.00354792
+currentT: 7.49999e-13
+node 5: 0.205458
+node 4: 0.00360707
+currentT: 7.59999e-13
+node 5: 0.210155
+node 4: 0.00366677
+currentT: 7.69999e-13
+node 5: 0.214882
+node 4: 0.00372704
+currentT: 7.79999e-13
+node 5: 0.219637
+node 4: 0.00378788
+currentT: 7.89999e-13
+node 5: 0.224419
+node 4: 0.0038493
+currentT: 7.99999e-13
+node 5: 0.229228
+node 4: 0.00391132
+currentT: 8.09999e-13
+node 5: 0.234063
+node 4: 0.00397392
+currentT: 8.19999e-13
+node 5: 0.238924
+node 4: 0.00403713
+currentT: 8.29999e-13
+node 5: 0.243808
+node 4: 0.00410095
+currentT: 8.39999e-13
+node 5: 0.248717
+node 4: 0.00416538
+currentT: 8.49999e-13
+node 5: 0.253648
+node 4: 0.00423044
+currentT: 8.59999e-13
+node 5: 0.258602
+node 4: 0.00429613
+currentT: 8.69999e-13
+node 5: 0.263577
+node 4: 0.00436245
+currentT: 8.79999e-13
+node 5: 0.268572
+node 4: 0.00442941
+currentT: 8.89999e-13
+node 5: 0.273588
+node 4: 0.00449702
+currentT: 8.99999e-13
+node 5: 0.278623
+node 4: 0.00456528
+currentT: 9.09999e-13
+node 5: 0.283677
+node 4: 0.00463421
+currentT: 9.19999e-13
+node 5: 0.288748
+node 4: 0.00470379
+currentT: 9.29999e-13
+node 5: 0.293837
+node 4: 0.00477405
+currentT: 9.39999e-13
+node 5: 0.298942
+node 4: 0.00484498
+currentT: 9.49999e-13
+node 5: 0.304063
+node 4: 0.0049166
+currentT: 9.59999e-13
+node 5: 0.309199
+node 4: 0.0049889
+currentT: 9.69999e-13
+node 5: 0.31435
+node 4: 0.00506189
+currentT: 9.79999e-13
+node 5: 0.319514
+node 4: 0.00513558
+currentT: 9.89999e-13
+node 5: 0.324691
+node 4: 0.00520996
+currentT: 9.99999e-13
+node 5: 0.329881
+node 4: 0.00528506
+currentT: 1.01e-12
+node 5: 0.335083
+node 4: 0.00536086
+
+Transient analysis setting:
+deltaT: 1e-14 s
+tFinal: 1e-12 s
+
+After 101 iterations, Newton Method was ended. 
+The voltages of the nodes:
+node.1	0.471656
+node.2	1
+node.3	-0.0206756
+node.4	0.00536086
+node.5	0.335083
+Running time = 0.026457s

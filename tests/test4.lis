@@ -1,0 +1,7 @@
+DC analysis started...
+After 3 iterations, Newton Method was ended. 
+The voltages of the nodes:
+node.1	1.8
+node.2	4.99017e-05
+node.3	3
+Running time = 0.000193s
